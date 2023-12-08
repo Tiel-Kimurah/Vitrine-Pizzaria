@@ -1,2 +1,2 @@
 # Vitrine-Pizzaria
-Sistema simples de uma vitrine para mostrar os sabores tipos de pizza produzidos por uma pizzaria local
+Site desenvolvido para uma pizzaria local. Objetivo do site é a praticidade dos clientes, permitindo visualizarem o cardápio, obterem informações sobre o estabelecimento e, principalmente, entrarem em contato com o vendedor para realizarem seus pedidos.
